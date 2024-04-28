@@ -1,12 +1,12 @@
 {
-  "name": "John Doe",
-  "shortName": "JD",
-  "org": "John Doe Inc.",
+  "name": "Tiago Magalhães",
+  "shortName": "TM",
+  "org": "",
   "image": "/assets/images/avatar.png",
   "title": "Software Engineer",
   "currentFocus": "Full Stack Development",
-  "location": "Frankfurt, Germany",
-  "email": "myemail@myemail.ext",
+  "location": "Guimarães, Portugal",
+  "email": "hi at tiagomagalha.es",
   "address": {
     "streetAddress": "Demo street 1",
     "addressLocality": "Frankfurt am Main",
@@ -15,7 +15,7 @@
     "addressCountry": "Germany"
   },
   "telephone": "+49 152 18055291",
-  "website": "https://www.gurpreet-singh.in",
+  "website": "https://tiagomagalha.es",
   "connect": [
     {
       "name": "linkedin",
@@ -226,9 +226,9 @@
   ],
   "worksFor": [
     {
-      "companyName": "Publicis Sapient",
+      "companyName": "The Premier League",
       "title": "Senior Manager Experience Engineering",
-      "time_start": "Apr 2012",
+      "time_start": "Nov 2023",
       "time_end": "Present",
       "link": "https://www.publicissapient.com/",
       "address": {
